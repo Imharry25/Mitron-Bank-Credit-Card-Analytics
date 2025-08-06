@@ -1,4 +1,4 @@
-# 💳Mitron-Bank-Credit-Card-Analytics
+💳Mitron-Bank-Credit-Card-Analytics
 ```markdown
 # Mitron Bank Credit Card Strategy: A Data-Driven Analysis
 
