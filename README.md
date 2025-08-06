@@ -24,10 +24,16 @@ This project follows a comprehensive data analysis pipeline:
 3.  **Data Visualization & Dashboarding:**
     * **Tool:** Microsoft Power BI
     * **Process:** Connected to the MySQL database, built a dynamic and interactive dashboard with drill-down capabilities to visualize key performance indicators (KPIs), demographic breakdowns, spending patterns, and income utilization.
-    * **Dashboard Screenshots:** See the `screenshots/` directory for key visuals.
+    * **Dashboard Screenshots:** 
         * <img width="1201" height="678" alt="image" src="https://github.com/user-attachments/assets/8d651b57-8ef4-4c34-aa4c-7c6b7018cf7f" />
-        * [Link to Spend Analysis Screenshot](screenshots/spend_analysis.png)
-        * ... (add links to other key screenshots)
+        * <img width="1203" height="681" alt="image" src="https://github.com/user-attachments/assets/21c8bfb6-58a2-426c-ae20-6295bfe85435" />
+        * <img width="1211" height="688" alt="image" src="https://github.com/user-attachments/assets/6f743ff5-db48-4c45-a986-813299805016" />
+        * <img width="1212" height="679" alt="image" src="https://github.com/user-attachments/assets/d56a0f5f-199a-4178-9b15-9baa50cf02d4" />
+        * <img width="1214" height="683" alt="image" src="https://github.com/user-attachments/assets/d68df927-c6f5-4230-88b8-a1d8e33ddc07" />
+        * <img width="1215" height="684" alt="image" src="https://github.com/user-attachments/assets/232a26dd-e6b3-47ea-bbf9-316c385ba477" />
+
+
+
 
 4.  **Insight Generation & Recommendations:**
     * **Methodology:** Analyzed trends and patterns across various dimensions (age, gender, occupation, city, spending category, payment type) to identify high-value customer segments and unmet needs.
