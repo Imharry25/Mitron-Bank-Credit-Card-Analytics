@@ -14,7 +14,7 @@ This project follows a comprehensive data analysis pipeline:
 1.  **Data Extraction & Transformation (ETL):**
     * **Tool:** Python (Pandas, NumPy)
     * **Process:** Loaded raw CSV data (`dim_customers.csv`, `fact_spends.csv`), performed data cleaning, merged datasets, and derived key metrics such as 'Total Spends per Customer' and 'Average Income Utilization %'.
-    * **Script:** [`product startegy.ipynb`](product startegy.ipynb) [`data_preparation.py`](data_preparation.py)
+    * **Script:** [`product_strategy.ipynb`](product_strategy.ipynb) [`data_preparation.py`](data_preparation.py)
 
 2.  **Data Loading & Storage:**
     * **Tool:** MySQL
