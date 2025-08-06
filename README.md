@@ -25,9 +25,9 @@ This project follows a comprehensive data analysis pipeline:
     * **Tool:** Microsoft Power BI
     * **Process:** Connected to the MySQL database, built a dynamic and interactive dashboard with drill-down capabilities to visualize key performance indicators (KPIs), demographic breakdowns, spending patterns, and income utilization.
       
- * 📊 [**Explore the Live Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/e103926e-c59b-4556-a7a4-fc3e088bcb04/03ac8bcc40120d11b37f?experience=power-bi)
+    * 📊 [**Explore the Live Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/e103926e-c59b-4556-a7a4-fc3e088bcb04/03ac8bcc40120d11b37f?experience=power-bi)
    
- * **Dashboard Screenshots:** 
+    * **Dashboard Screenshots:** 
         * <img width="1201" height="678" alt="image" src="https://github.com/user-attachments/assets/8d651b57-8ef4-4c34-aa4c-7c6b7018cf7f" />
         * <img width="1211" height="688" alt="image" src="https://github.com/user-attachments/assets/6f743ff5-db48-4c45-a986-813299805016" />
         * <img width="1212" height="679" alt="image" src="https://github.com/user-attachments/assets/d56a0f5f-199a-4178-9b15-9baa50cf02d4" />
