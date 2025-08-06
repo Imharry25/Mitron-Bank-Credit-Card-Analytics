@@ -25,7 +25,7 @@ This project follows a comprehensive data analysis pipeline:
     * **Tool:** Microsoft Power BI
     * **Process:** Connected to the MySQL database, built a dynamic and interactive dashboard with drill-down capabilities to visualize key performance indicators (KPIs), demographic breakdowns, spending patterns, and income utilization.
     * **Dashboard Screenshots:** See the `screenshots/` directory for key visuals.
-        * [Link to Executive Summary Screenshot](screenshots/dashboard_overview.png)
+        * <img width="1201" height="678" alt="image" src="https://github.com/user-attachments/assets/8d651b57-8ef4-4c34-aa4c-7c6b7018cf7f" />
         * [Link to Spend Analysis Screenshot](screenshots/spend_analysis.png)
         * ... (add links to other key screenshots)
 
@@ -59,14 +59,8 @@ A detailed presentation outlining the project, insights, and recommendations can
 * [Link to Presentation PDF](presentation/Mitron_Bank_Presentation.pdf)
 * [Link to Video Presentation (YouTube/Vimeo)](https://www.youtube.com/your-video-link-here) - *Update this link once your video is uploaded!*
 
-## How to Reproduce This Project
-1.  **Clone the repository:** `git clone https://github.com/your-username/your-repo-name.git`
-2.  **Set up Python environment:** Install `pandas`, `numpy`, `mysql-connector-python`.
-3.  **Prepare data:** Run `data_preparation.py` to clean data and load it into MySQL.
-4.  **Set up MySQL:** Create the `mitron_bank_credit_card` database and tables using `mysql_schema.sql`.
-5.  **Connect Power BI:** Link Power BI Desktop to your MySQL database.
 
 ---
-**Connect with me:** [Your LinkedIn Profile URL]
+**Connect with me:** https://www.linkedin.com/in/mayank-sharma-95a93a104/
 
 ```
