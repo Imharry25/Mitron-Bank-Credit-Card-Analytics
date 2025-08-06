@@ -1,9 +1,9 @@
-💳Mitron-Bank-Credit-Card-Analytics
-```markdown
-# Mitron Bank Credit Card Strategy: A Data-Driven Analysis
+Mitron-Bank-Credit-Card-Analytics
 
-## Project Overview
-This project focuses on leveraging customer demographic and spending data to provide actionable insights and strategic recommendations for Mitron Bank's new credit card launch. The goal was to identify key customer segments, understand their spending behaviors, and propose tailored credit card features to maximize adoption and usage.
+# 💳Mitron Bank Credit Card Strategy: A Data-Driven Analysis
+
+## 📌 Project Overview
+This project focuses on **leveraging customer demographic and spending data** to provide actionable insights and strategic recommendations for Mitron Bank's new credit card launch. The goal was to identify key customer segments, understand their spending behaviors, and propose tailored credit card features to maximize adoption and usage.
 
 ## Problem Statement
 Mitron Bank aims to diversify its product line by introducing a new range of credit cards. This analysis, performed as a pilot project for AtliQ Data Services, uses a sample dataset of 4,000 customers across five Indian cities to guide the bank's strategy team in tailoring credit card offerings to customer preferences and market trends.
