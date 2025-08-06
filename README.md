@@ -1,6 +1,6 @@
-Mitron-Bank-Credit-Card-Analytics
+Mitron-Bank-Credit-Card-Analytics💳
 
-# 💳Mitron Bank Credit Card Strategy: A Data-Driven Analysis
+# Mitron Bank Credit Card Strategy: A Data-Driven Analysis
 
 ## 📌 Project Overview
 This project focuses on **leveraging customer demographic and spending data** to provide actionable insights and strategic recommendations for Mitron Bank's new credit card launch. The goal was to identify key customer segments, understand their spending behaviors, and propose tailored credit card features to maximize adoption and usage.
