@@ -61,7 +61,7 @@ Based on our analysis, we recommend the following key features for Mitron Bank's
 
 ## Presentation
 A detailed presentation outlining the project, insights, and recommendations can be found here:
-* [Link to Presentation PDF](presentation/Mitron_Bank_Presentation.pdf)
+* [Link to Presentation PDF]https://www.canva.com/design/DAGu59mE6_A/H69VOgHjjhIJIM7_1apIvA/edit?ui=e30
 * [Link to Video Presentation (YouTube/Vimeo)](https://www.youtube.com/your-video-link-here) - *Update this link once your video is uploaded!*
 
 
