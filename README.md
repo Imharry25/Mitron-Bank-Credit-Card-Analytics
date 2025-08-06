@@ -19,7 +19,7 @@ This project follows a comprehensive data analysis pipeline:
 2.  **Data Loading & Storage:**
     * **Tool:** MySQL
     * **Process:** Created a relational database schema to store processed customer and spending data. Data was loaded from Python into MySQL tables.
-    * **Schema & Loading Script:** [`mysql_schema.sql`](mysql_schema.sql) (for table creation) and integrated into `data_preparation.py` for loading.
+    * **Schema & Loading Script:** [`Product_Analytics.sql`](Product_Analytics.sql) (for table creation) and integrated into `data_preparation.py` for loading.
 
 3.  **Data Visualization & Dashboarding:**
     * **Tool:** Microsoft Power BI
